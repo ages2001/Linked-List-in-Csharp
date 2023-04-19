@@ -1,0 +1,8 @@
+C:\Users\ataka\Desktop\visual_studio\my_C#\StudentDoublyLinkedList\StudentDoublyLinkedList\bin\Debug\StudentDoublyLinkedList.exe.config
+C:\Users\ataka\Desktop\visual_studio\my_C#\StudentDoublyLinkedList\StudentDoublyLinkedList\bin\Debug\StudentDoublyLinkedList.exe
+C:\Users\ataka\Desktop\visual_studio\my_C#\StudentDoublyLinkedList\StudentDoublyLinkedList\bin\Debug\StudentDoublyLinkedList.pdb
+C:\Users\ataka\Desktop\visual_studio\my_C#\StudentDoublyLinkedList\StudentDoublyLinkedList\obj\Debug\StudentDoublyLinkedList.csproj.AssemblyReference.cache
+C:\Users\ataka\Desktop\visual_studio\my_C#\StudentDoublyLinkedList\StudentDoublyLinkedList\obj\Debug\StudentDoublyLinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataka\Desktop\visual_studio\my_C#\StudentDoublyLinkedList\StudentDoublyLinkedList\obj\Debug\StudentDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\visual_studio\my_C#\StudentDoublyLinkedList\StudentDoublyLinkedList\obj\Debug\StudentDoublyLinkedList.exe
+C:\Users\ataka\Desktop\visual_studio\my_C#\StudentDoublyLinkedList\StudentDoublyLinkedList\obj\Debug\StudentDoublyLinkedList.pdb
